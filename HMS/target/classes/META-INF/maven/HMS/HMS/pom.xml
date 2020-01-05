@@ -3,7 +3,7 @@
   <groupId>HMS</groupId>
   <artifactId>HMS</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   
   <name>HMS</name>
     <url>http://maven.apache.org</url>
@@ -65,6 +65,12 @@
   <artifactId>maven-war-plugin</artifactId>
   <version>3.2.3</version>
   <type>maven-plugin</type>
+</dependency>
+<!-- https://mvnrepository.com/artifact/org.apache.maven.plugins/maven-compiler-plugin -->
+<dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-compiler-plugin</artifactId>
+    <version>3.8.1</version>
 </dependency>
 
  
