@@ -3,7 +3,7 @@
   <groupId>HMS</groupId>
   <artifactId>HMS</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   
   <name>HMS</name>
     <url>http://maven.apache.org</url>
