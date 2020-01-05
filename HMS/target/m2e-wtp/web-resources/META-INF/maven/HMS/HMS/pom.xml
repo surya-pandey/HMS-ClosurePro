@@ -60,6 +60,12 @@
     <artifactId>spring-orm</artifactId>
     <version>5.2.2.RELEASE</version>
 </dependency>
+<dependency>
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-war-plugin</artifactId>
+  <version>3.2.3</version>
+  <type>maven-plugin</type>
+</dependency>
 
  
 <dependency>
